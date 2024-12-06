@@ -20,3 +20,21 @@ a {
 	text-decoration: none;
 	color: inherit;
 }
+
+body{
+	font-family: "Lexend Deca", sans-serif;
+    margin: 0;
+	color: white;
+	font-weight: 400;
+}
+
+
+*{
+    box-sizing: border-box;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+

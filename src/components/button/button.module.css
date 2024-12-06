@@ -1,0 +1,31 @@
+.button{
+    width: 146px;
+    height: 48px;
+    background-color: white;
+    border-radius: 25px;
+    padding-block: 11px;
+    border: none;
+    text-align: center;
+    line-height: 25px;
+}
+
+@media (hover: hover) {
+	.button:hover {
+		border: 2px solid #fff;
+		color: #fff;
+		background-color: transparent;
+        padding-block: 10px;
+	}
+}
+
+.orange {
+	color: #e28625;
+}
+
+.blue {
+	color: #006971;
+}
+
+.green {
+	color: #004140;
+}

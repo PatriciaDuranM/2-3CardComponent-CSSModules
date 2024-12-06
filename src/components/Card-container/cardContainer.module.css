@@ -1,0 +1,11 @@
+
+.cardContainer{
+    display: flex;
+    flex-direction: column;
+};
+
+@media screen and (width>=768px) {
+	.cardContainer {
+		flex-direction: row;
+	}
+}
