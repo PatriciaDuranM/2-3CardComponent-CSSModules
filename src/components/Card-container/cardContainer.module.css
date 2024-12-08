@@ -4,8 +4,8 @@
     flex-direction: column;
 };
 
-@media screen and (width>=768px) {
-	.cardContainer {
+@media screen and (width> 768px) {
+	.cardContainer{
 		flex-direction: row;
-	}
+	} 
 }
